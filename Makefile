@@ -1,4 +1,4 @@
-EXECUTABLE := app
+EXECUTABLE := web
 GOFILES := $(shell find . -name "*.go" -type f)
 GO ?= go
 
